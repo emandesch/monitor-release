@@ -1,0 +1,5 @@
+Release v1.0.0
+--------------
+- Alert-Konfiguration überarbeitet (Schwelle: 70, Wiederholung: 5x)
+- Logging auf JSON umgestellt mit täglicher Rotation
+- Zentraler Ansprechpartner: it-team@firma.de
